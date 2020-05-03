@@ -1,4 +1,4 @@
-# Single Responsibility Principles の効能を示すデモ
+# Single Responsibility Principles の効能を感じるためのデモ
 from abc import ABC, abstractmethod
 
 # デバイス情報取得のためのインタフェースの抽象基底クラス

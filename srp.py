@@ -1,4 +1,4 @@
-# Single Responsibility Principles の効能を示すデモ
+# Single Responsibility Principles の効能を感じるためのデモ
 class iPhone:
     def __init__(self, version: str, color: str):
         self.version = version

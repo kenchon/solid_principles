@@ -1,4 +1,4 @@
-# リスコフの置換原則（Liskov's Substitution Principles）の効能を示すデモ
+# リスコフの置換原則（Liskov's Substitution Principles）の効能を感じるためのデモ
 
 # 抽象クラスで (log_message, date) を引数にとるログ出力機能を宣言。
 # iPhone クラスは辞書型を引数にとるため LSP 違反
